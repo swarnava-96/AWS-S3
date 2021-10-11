@@ -1,5 +1,3 @@
-# AWS-S3
-
 # Creating a s3 bucket
 
 I have followed the below steps for creating my first s3 bucket:
